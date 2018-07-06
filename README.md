@@ -1,4 +1,4 @@
-# -
+# Taobao search
 javascript
 慕课网搜索框第二个小练习，http://www.imooc.com/learn/21
 
